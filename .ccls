@@ -1,0 +1,8 @@
+gcc
+%c -std=c99
+%h -std=c99
+-I /usr/include/SDL2/
+iI /usr/include/OAK/
+-Wall
+-Wextra
+-pedantic
